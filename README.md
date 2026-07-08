@@ -18,9 +18,9 @@ and reports for an autonomous **TurtleBot 4** search-and-return task (COMPSYS 73
 │   └── odom_logger.py       # Odometry characterisation (linear / square modes)
 ├── config/
 │   └── super_client_configuration_file.xml   # Fast DDS super-client config
-└── reports/                 # Written reports
-    ├── Report2_YanzhenHu.docx
-    └── Evaluation of TurtleBot 4 Platform for Autonomous Stock.docx
+└── reports/                 # Written reports (PDF)
+    ├── Report2_YanzhenHu.pdf
+    └── Evaluation of TurtleBot 4 Platform for Autonomous Stock.pdf
 ```
 
 ## Scripts
